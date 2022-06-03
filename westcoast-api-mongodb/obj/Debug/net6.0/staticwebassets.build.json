@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1vlhuZtxCVK/ULTfFCYTjCVX1tI8avOZIfhKgzsM1Kk=",
+  "Source": "westcoast-api-mongodb",
+  "BasePath": "_content/westcoast-api-mongodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

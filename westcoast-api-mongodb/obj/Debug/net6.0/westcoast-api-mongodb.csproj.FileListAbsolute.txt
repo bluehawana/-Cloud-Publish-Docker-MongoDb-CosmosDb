@@ -1,0 +1,129 @@
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/appsettings.Development.json
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/appsettings.json
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/westcoast-api-mongodb
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/westcoast-api-mongodb.deps.json
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/westcoast-api-mongodb.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/westcoast-api-mongodb.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/westcoast-api-mongodb.pdb
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/DnsClient.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/SharpCompress.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/linux/native/libsnappy64.so
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/linux/native/libzstd.so
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/osx/native/libsnappy64.dylib
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/osx/native/libzstd.dylib
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/win/native/libzstd.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/win/native/snappy32.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/win/native/snappy64.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.MvcApplicationPartsAssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.MvcApplicationPartsAssemblyInfo.cache
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/staticwebassets.build.json
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/staticwebassets.development.json
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/scopedcss/bundle/westcoast-api-mongodb.styles.css
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.csproj.CopyComplete
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/refint/westcoast-api-mongodb.dll
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.pdb
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/westcoast-api-mongodb.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Dev/Courses/ITHS-GBG/Publicering av molntjänster/code/cloud-services/westcoast-api-mongodb/obj/Debug/net6.0/ref/westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\appsettings.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.exe
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.deps.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.runtimeconfig.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.pdb
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\DnsClient.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.csproj.AssemblyReference.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.AssemblyInfoInputs.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.AssemblyInfo.cs
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.csproj.CoreCompileInputs.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\scopedcss\bundle\westcoast-api-mongodb.styles.css
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.csproj.CopyComplete
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\refint\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.pdb
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.genruntimeconfig.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\mk\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\ref\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.csproj.AssemblyReference.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.AssemblyInfoInputs.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.AssemblyInfo.cs
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.csproj.CoreCompileInputs.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\refint\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.pdb
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\appsettings.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.exe
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.deps.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.runtimeconfig.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\westcoast-api-mongodb.pdb
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\DnsClient.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\scopedcss\bundle\westcoast-api-mongodb.styles.css
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.csproj.CopyComplete
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\westcoast-api-mongodb.genruntimeconfig.cache
+C:\Users\HongzhiLi\Desktop\ITHS\molntjänster\Docker\CloudServices\westcoast-api-mongodb\obj\Debug\net6.0\ref\westcoast-api-mongodb.dll
